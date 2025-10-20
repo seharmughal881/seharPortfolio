@@ -79,15 +79,20 @@ export const SkillData = [
 export const Socials = [
   {
     name: "Discord",
-    src: "/instagram.svg",
+    src: "/linke.png",
+    url: "https://www.linkedin.com/in/sehar-mughal-3b295a37b/"
   },
   {
     name: "Facebook",
     src: "/facebook.svg",
+        url: "https://www.linkedin.com/in/sehar-mughal-3b295a37b/"
+
   },
   {
     name: "Instagram",
-    src: "/discord.svg",
+    src: "/git.png",
+        url: "https://github.com/seharmughal881/"
+
   },
 ];
 export const Projects = [
@@ -116,7 +121,7 @@ export const Projects = [
     title: "Exciting New Projects on the Way",
     text: "I’m working on some new creative projects — they’re taking time, but they’ll be smarter, faster, and even better when they’re ready.",
     src: "/Matrix.png",
-        link: "https://j-jamshad-website.vercel.app/", // 👈 added link
+        link: "https://github.com/seharmughal881/", // 👈 added link
 
   },
 ];

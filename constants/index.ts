@@ -101,6 +101,7 @@ export const Projects = [
     text: "I built the J. Jamshad website from scratch using Next.js and Tailwind CSS. It’s fully responsive, smooth, and designed with a clean, modern look that reflects a personal brand.",
     src: "/j.png",
     link: "https://j-jamshad-website.vercel.app/", // 👈 added link
+    image:"/Mountains.jpg"
 
   },
   {
